@@ -1,4 +1,6 @@
 version: STSv1
 mode: enforce
-max_age: 2419200
-mx: mx.yandex.net 
+mx: mxext1.mailbox.org
+mx: mxext2.mailbox.org
+mx: mxext3.mailbox.org
+max_age: 10368000
