@@ -3,4 +3,5 @@ mode: enforce
 mx: mxext1.mailbox.org
 mx: mxext2.mailbox.org
 mx: mxext3.mailbox.org
+mx: mx.runbox.com
 max_age: 10368000
