@@ -1,7 +1,7 @@
-mta-sts well-known page for david-osipov.vision domain. See https://www.hardenize.com/blog/mta-sts
+mta-sts well-known page for lizy.be domain. See https://www.hardenize.com/blog/mta-sts
 
 
-This repo contains mta-sts rules for david-osipov.vision domain and runs github pages to serve the content.
+This repo contains mta-sts rules for lizy.be domain and runs github pages to serve the content.
 
 
-https://mta-sts.david-osipov.vision/.well-known/mta-sts.txt
+https://mta-sts.lizy.be/.well-known/mta-sts.txt
